@@ -1,5 +1,5 @@
 
-#ISS Anniversary Apps – Explore & Learn
+ISS Anniversary Apps – Explore & Learn
 
 
 The ISS Anniversary Apps project is designed under NASA’s Space Apps Challenge 2025, focusing on celebrating the International Space Station (ISS) through creative and educational solutions. Our solution aims to bridge the gap between the vast amount of ISS knowledge and the limited ways in which the general public, especially young learners, can access and engage with it.
