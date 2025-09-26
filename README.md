@@ -1,100 +1,107 @@
-# Hack-a-star
 Project Name
 
 ISS Anniversary Apps – Explore & Learn
 
 Executive Summary (300 Words Max)
 
-The ISS Anniversary Apps project is developed under NASA’s Space Apps Challenge to celebrate the legacy of the International Space Station (ISS). The challenge emphasizes creating educational and creative applications that highlight the ISS’s achievements and engage the public. Our proposed solution is an interactive application that allows users to explore the ISS virtually, learn about its scientific contributions, and engage in gamified learning activities.
+The ISS Anniversary Apps project is designed under NASA’s Space Apps Challenge 2025, focusing on celebrating the International Space Station (ISS) through creative and educational solutions. Our solution aims to bridge the gap between the vast amount of ISS knowledge and the limited ways in which the general public, especially young learners, can access and engage with it.
 
-The problem we address is the limited awareness and accessibility of ISS-related knowledge for the general public, especially younger generations. While vast data exists, it often remains inaccessible or unengaging for non-specialists. Our app solves this by combining educational content, real-time ISS data, and gamification through Unity-based mini-games. This ensures learning becomes both fun and memorable.
+The problem we tackle is the lack of engaging and interactive platforms that bring ISS data, achievements, and stories to life. Existing resources, while informative, often remain static, overly technical, or fragmented. To address this, we propose an innovative application that combines real-time ISS data integration, interactive visualization, and Unity-based gamification.
 
-We selected this challenge because the ISS is a symbol of international collaboration and scientific progress, and its anniversary provides a unique opportunity to inspire future generations. By blending technology with education, our solution directly aligns with NASA’s objective of broad outreach and knowledge sharing.
+Through this app, users can virtually explore the ISS, understand its modules and experiments, and learn about the astronauts’ lives aboard. The Unity mini-games allow users to engage in fun, educational missions—such as repairing modules, managing resources, or completing science experiments—while learning about real ISS facts.
 
-Our approach ensures an engaging, educational, and scalable solution that not only celebrates the ISS but also inspires curiosity about space exploration.
+We chose this challenge because the ISS symbolizes international collaboration, innovation, and human achievement in space. Its anniversary is not only a milestone to celebrate but also an opportunity to inspire curiosity and future generations in science and technology.
+
+By blending interactive design, gamification, and real data, our app ensures a scalable, engaging, and accessible solution that effectively meets the challenge requirements and amplifies ISS outreach globally.
 
 Problem Definition (150 Words)
 
-The core problem is the lack of engaging and accessible tools to communicate the importance of the International Space Station (ISS) to the wider public. While the ISS has produced groundbreaking scientific achievements, much of this knowledge remains limited to experts or scattered across technical platforms. For students and the general public, especially those with limited access to scientific resources, this creates a knowledge gap.
+The International Space Station has been central to scientific discovery and international cooperation for over two decades. However, awareness and understanding of its significance remain limited among the general public. Most ISS-related resources are scattered across technical platforms, scientific papers, or static websites, making them inaccessible or unappealing to non-specialists, particularly students.
 
-The relevance of this issue lies in the ISS’s role as a global scientific hub and symbol of collaboration. Without innovative ways to share its story, public awareness and inspiration risk declining, especially among younger generations. Addressing this gap is vital to sustain public interest in space exploration and motivate future scientists, engineers, and explorers.
+This problem is critical because without accessible educational tools, public engagement with the ISS risks decline, reducing its inspirational power for future scientists and engineers. At a time when space exploration is expanding rapidly, bridging this knowledge gap is essential to foster interest in science, technology, engineering, and mathematics (STEM).
+
+Our project directly addresses this issue by creating an interactive, gamified, and educational platform that makes learning about the ISS both accessible and exciting.
 
 Background & Literature Review (200 Words Max)
 
-Several platforms provide ISS-related data, including NASA’s official APIs, live tracking sites, and educational outreach programs. Websites like NASA’s Spot the Station and mobile apps offer real-time tracking of the ISS’s location. Educational initiatives, such as online lesson plans and YouTube documentaries, provide valuable insights into the ISS’s contributions.
+Existing ISS-related solutions fall into three main categories:
 
-However, these solutions often face limitations. Tracking apps focus only on technical data without educational engagement. Documentaries and lesson plans provide knowledge but lack interactivity. Gamified science applications exist in other domains (like space quizzes or VR experiences), but few specifically integrate ISS knowledge with real-time data and interactive exploration.
+Tracking Tools – Apps and websites like “Spot the Station” show ISS position but provide little educational content.
 
-Research shows that gamification and interactive learning significantly improve knowledge retention and student engagement. Studies in educational technology highlight how visualization tools and serious games can bridge the gap between complex scientific data and learner understanding.
+Educational Resources – Lesson plans, videos, and documentaries deliver information but lack interactivity.
 
-Our project builds on this foundation by merging gamification with real ISS data. Unlike existing solutions, it offers a holistic experience where users can explore, learn, and play in one platform. This unique integration positions our app as an innovative contribution to ISS education and outreach.
+Science Games – General space-themed games engage users but rarely connect with real ISS data or learning outcomes.
+
+Research in educational technology consistently shows that gamification enhances learning outcomes, retention, and engagement. For example, Gee (2003) emphasizes how video games can teach systems thinking and problem-solving. NASA’s own STEM outreach programs demonstrate the potential of interactive tools to inspire young learners.
+
+Despite these efforts, there is no unified solution that merges real-time ISS data, interactive exploration, and gamified education into a single platform. Our project fills this gap by combining the strengths of visualization, live data, and game-based learning, ensuring that users both enjoy and retain knowledge about the ISS.
 
 Methodology
 
-Research & Planning – Gather ISS datasets from NASA APIs, documentaries, and official resources.
+Research & Planning: Collect ISS datasets from NASA APIs and curate educational content.
 
-Design – Create user-friendly UI/UX with accessible navigation for exploration.
+Design: Build intuitive UI/UX and storyboard Unity-based games.
 
-Development –
+Development:
 
-Front-End: Build the app interface using Unity (for games) and optional web/mobile frameworks.
+Use Unity for gamified modules.
 
-Data Integration: Connect ISS APIs for real-time visualization.
+Integrate ISS APIs for real-time tracking and data.
 
-Gamification: Develop Unity mini-games that teach ISS history and science.
+Add visualization tools for station modules and science experiments.
 
-Testing – Pilot the app with sample users for feedback.
+Testing: Conduct usability testing with pilot users.
 
-Deployment – Release a working prototype for public engagement.
+Deployment: Release prototype with GitHub documentation and demo.
 
 Solution
 
-Our solution is a hybrid educational and entertainment application. Users can:
+Our app combines interactive ISS exploration, gamification, and real-time data visualization. Users can:
 
-Explore the ISS through interactive maps and visuals.
+Explore ISS modules in a 3D environment.
 
-Access real-time ISS data integrated from NASA APIs.
+Play educational Unity games linked to real ISS science.
 
-Play Unity-based games to learn about ISS missions, astronauts, and experiments.
+Track the ISS live via NASA APIs.
 
-This aligns with the challenge by celebrating the ISS’s anniversary through an accessible, engaging tool that reaches diverse audiences.
+Steps: prototype development, content integration, game testing, and public release.
 
 Value Proposition
 
-The ISS Anniversary App transforms static data into an interactive, memorable experience. Unlike existing apps, it integrates real-time data with gamified learning, ensuring long-term engagement. For NASA, it provides a powerful outreach tool; for users, it offers an accessible and enjoyable way to learn about space.
+Unlike traditional apps, our solution merges fun and learning. It transforms static ISS data into engaging experiences. Users gain both entertainment and knowledge, while NASA achieves broader outreach. The combination of gamification and real-time data makes our solution stand out as both innovative and impactful.
 
 Role of Team Members
 
-Sama Ehab – Research & Content Development.
+Sama Ehab – Research, content curation, and scientific accuracy.
 
-Nada Ahmed – Game Design & Development (Unity).
+Nada Ahmed – Unity game development and design.
 
-Nour Hossam – App Integration, Data APIs, and Visualization.
+Nour Hossam – API integration, app structure, and visualization.
 
 Workflow Strategy
 
-Day 1: Problem analysis & planning.
+Day 1: Problem research, idea refinement.
 
-Day 2: Core development (UI + data integration).
+Day 2: UI design and ISS API setup.
 
-Day 3: Game implementation and testing.
+Day 3: Unity game development.
 
-Day 4: Final refinements & submission.
-Team collaboration will be managed via GitHub and communication platforms.
+Day 4: Testing, debugging, and final deployment.
+Team collaboration will use GitHub repositories, Trello boards, and group calls.
 
 Resources
 
-Software: Unity, NASA APIs, Visualization Libraries.
+Software: Unity, React/Flutter (optional), GitHub, NASA APIs.
 
-Hardware: Personal laptops.
+Hardware: Laptops.
 
-Data: ISS API, NASA educational datasets.
+Data: NASA Open Data, ISS APIs.
 
-Reference Paper: Gee, J. P. (2003). What Video Games Have to Teach Us About Learning and Literacy.
+Reference: Gee, J. P. (2003). What Video Games Have to Teach Us About Learning and Literacy.
 
 Team Name
 
-Orbit Innovators
+Hack a Star
 
 Team Members:
 1- Sama Ehab
